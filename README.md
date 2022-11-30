@@ -26,9 +26,9 @@ Download PDF: [2022_C00C00R00CON_jailbreak.pdf](2022_C00C00R00CON_jailbreak.pdf)
 - Security researchers need to
   - Assess / reverse protected applications
 
-# Jailbreak detection
-
 <br>
+
+# Jailbreak detection
 
 ### Debugging an iOS app
 
