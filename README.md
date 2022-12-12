@@ -12,11 +12,7 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 
 Download PDF: [2022_C00C00R00CON_jailbreak.pdf](2022_C00C00R00CON_jailbreak.pdf)
 
-<br>
-
 <div align="center"><img src="32F86E54-D161-4F54-A261-D0EA35314B9C.jpeg"></div>
-
-<br>
 
 # Introduction
 
